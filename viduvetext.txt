@@ -1,2 +1,9 @@
 c02k02
 vffdry
+
+
+git add. => đưa toàn bộ dữ liệu lên stage (vùng chờ)
+git commit -m xác nhận ở vùng chờ, chuẩn bị đưa dữ liệu thay đổi lên server
+git fetch để cập nhật dữ liệu từ trên xuống
+git pull để kéo về
+git push đẩy lên
